@@ -222,5 +222,3 @@ function restart(){
   playerscore = 0;
   loop();
 }
-
-
